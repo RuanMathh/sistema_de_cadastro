@@ -1,1 +1,1 @@
-console.log("Motando um GitHub legal")
+console.log("Rodando o sistema de gerenciamento de jogos")
